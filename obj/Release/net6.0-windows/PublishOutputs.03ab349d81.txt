@@ -1,0 +1,5 @@
+D:\home\education\bachelor\4-semester\operation-systems\rgz\TaskManager_Priotity\bin\Release\net6.0-windows\publish\TaskManager_Priotity.exe
+D:\home\education\bachelor\4-semester\operation-systems\rgz\TaskManager_Priotity\bin\Release\net6.0-windows\publish\TaskManager_Priotity.dll
+D:\home\education\bachelor\4-semester\operation-systems\rgz\TaskManager_Priotity\bin\Release\net6.0-windows\publish\TaskManager_Priotity.deps.json
+D:\home\education\bachelor\4-semester\operation-systems\rgz\TaskManager_Priotity\bin\Release\net6.0-windows\publish\TaskManager_Priotity.runtimeconfig.json
+D:\home\education\bachelor\4-semester\operation-systems\rgz\TaskManager_Priotity\bin\Release\net6.0-windows\publish\TaskManager_Priotity.pdb
